@@ -13,7 +13,7 @@
     "url": "https://github.com/AnomalyInnovations/serverless-nodejs-starter.git"
   },
   "devDependencies": {
-    "aws-sdk": "^2.574.0",
+    "aws-sdk": "^2.814.0",
     "eslint": "^6.6.0",
     "eslint-plugin-react": "^7.16.0",
     "jest": "^24.9.0",
